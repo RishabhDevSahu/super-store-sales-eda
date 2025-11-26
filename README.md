@@ -67,7 +67,11 @@ The dataset includes sales transactions categorized into regions, customer group
 ---
 
 ## 🖥 Dashboard Preview  
-*(Add screenshots when available)*
+<img width="1999" height="1125" alt="image" src="https://github.com/user-attachments/assets/e0679183-cba3-428a-a296-3387bf0d7937" />
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/f88c4f57-7447-42e5-833b-0d33ff50c058" />
+<img width="2008" height="1125" alt="image" src="https://github.com/user-attachments/assets/f7a0b136-0742-4271-826b-b93555a5a893" />
+<img width="1994" height="1125" alt="image" src="https://github.com/user-attachments/assets/39b52a2e-8f19-4e13-b68d-f066371e028b" />
+
 
 ---
 
