@@ -51,7 +51,7 @@ The dataset includes sales transactions categorized into regions, customer group
 ---
 
 ### 5️⃣ Forecasting & Seasonality  
-- Forecast visuals indicate an **upward sales trajectory** with noticeable seasonal fluctuations — useful for demand planning and resource optimization.
+- Forecast visuals indicate an **upward sales trajectory** with noticeable seasonal fluctuations - useful for demand planning and resource optimization.
 
 ---
 
